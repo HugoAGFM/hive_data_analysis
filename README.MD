@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This work proposes briefly analyze a dataset containing Brazil highway traffic accidents data using Apache Hive.
+This work proposes to briefly analyze a dataset containing Brazil highway traffic accidents data using Apache Hive.
 
 ## About Dataset
 
