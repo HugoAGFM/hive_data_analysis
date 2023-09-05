@@ -52,7 +52,7 @@ Below you can find the columns present in the dataset with a brief description, 
 
 ### Data model
 
-For the purpose of this work and following the instructions of the professor, the dataset was denormalized and modeled as three different tables as described below.w
+For the purpose of this work and following the instructions of the professor, the dataset was denormalized and modeled as three different tables as described below.
 
 | Table     | Description                                                                                                             |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------- |
