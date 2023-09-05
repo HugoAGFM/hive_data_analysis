@@ -200,7 +200,7 @@ The biggest highway in the Country, BR 101, is also the one with the highest num
 
 #### Discussion
 
-When compared to the total number of accidents, the ones where someone is in an altered menthal state are more likely to happen during the night or dawn.
+When compared to the total number of accidents, the ones where someone is in an altered menthal state are more likely to happen during the night or dawn. It is important to notice that the occurences involve not only ingestion of alcohol, but other substances as well, and includes ingestion from drivers and pedestrians. 
 
 ## Future work
 
