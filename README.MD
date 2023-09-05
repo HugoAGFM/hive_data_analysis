@@ -187,7 +187,7 @@ Maranhão is the State with the highest death rate per people involved in an acc
 The biggest highway in the Country, BR 101, is also the one with the highest number of accidents every year. It is important to notice that this number decreased throughout the years.
 
 
-### What are the stages of the day where an accident involving someone in an altered mental stage is more likely to happen? [query](./hive/queries/altered_mental_state_per_day_stage.q)
+### What are the stages of the day where an accident involving someone in an altered mental stage is more likely to happen? [query](./hive/queries/altered_mental_state_per_stage_of_day.q)
 
 #### Results
 
