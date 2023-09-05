@@ -139,7 +139,7 @@ This session contains the set of analytical questions elaborated to explore the 
 
 #### Discussion
 
-Although the Quadricycle has the highest death rate, due to the low number of occurencies, it is possible to consider that the Bicycle as the vehicle with highest death rate.
+Although the Quadricycle has the highest death rate, due to the low number of occurencies, it is possible to consider the Bicycle as the vehicle with highest death rate.
 
 ### Does the number of people in the vehicle influence the occurrences of accidents where the driver sleeps? [query](./hive/queries/sleeping_driver.q)
 
