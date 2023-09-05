@@ -15,7 +15,7 @@ This work proposes to briefly analyze a dataset containing Brazil highway traffi
 
 The dataset under analysis is available in [kaggle](https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents) and contains data from Brazil's federal higways between 2007 and 2021 at various levels of granularity. 
 
-The level of granularity chosen was 'accidents per person', and, because there's been  a change in the system used to record these data in 2017, this analysis will be restricted to the period of 2017 to 2021.
+The level of granularity chosen was 'accidents per person', and, because there's been  a change in the system used to record these data in 2017, this analysis will be restricted to the period of 2017 to 2021. The files are available [here](https://drive.google.com/drive/u/0/folders/1ue0XT3qt7dknBmV_oykird_6O2Rld723)
 
 ### Columns description
 
